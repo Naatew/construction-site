@@ -10,6 +10,7 @@ const Navbar = () => {
             <li><a href="#">Contact</a></li>
           </ul>
           <a href="#" className="bg-yellow-500 px-4 py-2 rounded">Get A Quote</a>
+          <p>New paragraph</p>
         </div>
       </nav>
     );
